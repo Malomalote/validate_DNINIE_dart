@@ -1,5 +1,5 @@
 # DNI or NIE validation in Dart
-A simple dart function to validate spanish DNI or NIE
+A simple dart function to validate spanish DNI or NIE.
 
 usage:
 ```dart
@@ -9,13 +9,16 @@ print(isDNI(dni));
 print(isDNI(nie));
 ```
 result:
+
 true
+
 true
 
 
 # Validación de DNI o NIE en Dart
 
-Función escrita en dart para validar DNI O NIE español
+Función escrita en dart para validar DNI O NIE español.
+
 uso:
 ```dart
 String dni='15425678S';
@@ -24,5 +27,7 @@ print(isDNI(dni));
 print(isDNI(nie));
 ```
 resultado:
+
 true
+
 true
